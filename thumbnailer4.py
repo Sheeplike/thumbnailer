@@ -113,7 +113,7 @@ if len(args) > 1:
             print("ERROR: cannot create thumbnail for", infile)
 
 else:
-    print("Usage: thumbnailer2.py <image> <title> <tags (optional)>")
+    print("Usage: thumbnailer4.py <image> <title> <tags (optional)>")
 
 
     
